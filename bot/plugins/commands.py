@@ -30,7 +30,25 @@ async def start(bot, update):
             await bot.send_document(
                 chat_id=update.chat.id,
                 document = file_id,
-                caption = caption,
+                caption = ------------------------------------------------------
+
+🅹︎🅾︎🅸︎🅽︎ 🅵︎🅾︎🆁︎ 🅼︎🅾︎🆁︎🅴︎ 👇👇Group :@MOVIEZ_CORNER_GROUP_BY_MC_TEAM
+
+Channels 
+
+👉@moviez_CorneR_updates_channel
+
+ 👉@All_in_1_by_moviez_corner
+
+👉@updates_channel_by_mc
+
+👉@Main_channel_by_MC
+
+ 👉@MC_ARCHIVE_1
+
+👉Instagram link 👇 
+
+https://www.instagram.com/moviez_corner_insta_1/,
                 parse_mode="html",
                 reply_to_message_id=update.message_id,
                 reply_markup=InlineKeyboardMarkup(
@@ -38,7 +56,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/CrazyBotsz"
+                                    '𝗦𝗵𝗮𝗿𝗲 𝗚𝗿𝗼𝘂𝗽', url="https://t.me/share/url?url=https://t.me/MOVIEZ_CORNER_GROUP_BY_MC_TEAM"
                                 )
                         ]
                     ]
@@ -50,14 +68,32 @@ async def start(bot, update):
             await bot.send_video(
                 chat_id=update.chat.id,
                 video = file_id,
-                caption = caption,
+                caption = ------------------------------------------------------
+
+🅹︎🅾︎🅸︎🅽︎ 🅵︎🅾︎🆁︎ 🅼︎🅾︎🆁︎🅴︎ 👇👇Group :@MOVIEZ_CORNER_GROUP_BY_MC_TEAM
+
+Channels 
+
+👉@moviez_CorneR_updates_channel
+
+ 👉@All_in_1_by_moviez_corner
+
+👉@updates_channel_by_mc
+
+👉@Main_channel_by_MC
+
+ 👉@MC_ARCHIVE_1
+
+👉Instagram link 👇 
+
+https://www.instagram.com/moviez_corner_insta_1/,
                 parse_mode="html",
                 reply_markup=InlineKeyboardMarkup(
                     [
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/CrazyBotsz"
+                                    '𝗦𝗵𝗮𝗿𝗲 𝗚𝗿𝗼𝘂𝗽', url="https://t.me/share/url?url=https://t.me/MOVIEZ_CORNER_GROUP_BY_MC_TEAM"
                                 )
                         ]
                     ]
@@ -69,14 +105,32 @@ async def start(bot, update):
             await bot.send_audio(
                 chat_id=update.chat.id,
                 audio = file_id,
-                caption = caption,
+                caption = ------------------------------------------------------
+
+🅹︎🅾︎🅸︎🅽︎ 🅵︎🅾︎🆁︎ 🅼︎🅾︎🆁︎🅴︎ 👇👇Group :@MOVIEZ_CORNER_GROUP_BY_MC_TEAM
+
+Channels 
+
+👉@moviez_CorneR_updates_channel
+
+ 👉@All_in_1_by_moviez_corner
+
+👉@updates_channel_by_mc
+
+👉@Main_channel_by_MC
+
+ 👉@MC_ARCHIVE_1
+
+👉Instagram link 👇 
+
+https://www.instagram.com/moviez_corner_insta_1/,
                 parse_mode="html",
                 reply_markup=InlineKeyboardMarkup(
                     [
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/CrazyBotsz"
+                                    '𝗦𝗵𝗮𝗿𝗲 𝗚𝗿𝗼𝘂𝗽, url="https://t.me/share/url?url=https://t.me/MOVIEZ_CORNER_GROUP_BY_MC_TEAM"
                                 )
                         ]
                     ]
